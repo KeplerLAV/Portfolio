@@ -79,7 +79,7 @@ export const About = () => {
               
               
             </div>
-            {skills.map((data, i) => {
+            {/* {skills.map((data, i) => {
               return (
                 <div key={i}>
                   <h3 className="progress-title">{data.name}</h3>
@@ -95,7 +95,7 @@ export const About = () => {
                   </div>
                 </div>
               );
-            })}
+            })} */}
           </Col>
         </Row>
         

@@ -48,28 +48,28 @@ const worktimeline = [
     },
 ];
 
-const skills = [
-    {
-        name: "Windows/Linux Server",
-        value: 85,
-    },
-    {
-        name: "Cybersécurité",
-        value: 70,
-    },
-    {
-        name: "Cisco",
-        value: 85,
-    },
-    {
-        name: "Azure",
-        value: 75,
-    },
-    {
-        name: "AWS",
-        value: 75,
-    },
-];
+// const skills = [
+//     {
+//         name: "Windows/Linux Server",
+//         value: 85,
+//     },
+//     {
+//         name: "Cybersécurité",
+//         value: 70,
+//     },
+//     {
+//         name: "Cisco",
+//         value: 85,
+//     },
+//     {
+//         name: "Azure",
+//         value: 75,
+//     },
+//     {
+//         name: "AWS",
+//         value: 75,
+//     },
+// ];
 
 const services = [
     {
