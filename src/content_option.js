@@ -191,7 +191,7 @@ export {
     dataabout,
     dataportfolio,
     worktimeline,
-    skills,
+    // skills,
     services,
     introdata,
     contactConfig,
